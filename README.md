@@ -1,10 +1,20 @@
-# matplotlib-homework
-## Matplotlib Homework
+# pyber-analysis
+## Python using Pandas and Matplotlib library
 
-# Pyber analysis
+# Background
 
-In this assignment I have attempted the Pyber analysis. 
+In this activity, we have used a dataset of a ride sharing company that contains information about every active driver and historic ride, including details like city, driver count, individual fares, and city type. The objective is to build a [Bubble Plot](https://en.wikipedia.org/wiki/Bubble_chart) that showcases the relationship between four key variables:
 
+* Average Fare ($) Per City
+* Total Number of Rides Per City
+* Total Number of Drivers Per City
+* City Type (Urban, Suburban, Rural)
+
+In addition, the following three pie charts are created:
+
+* % of Total Fares by City Type
+* % of Total Rides by City Type
+* % of Total Drivers by City Type
 
 Three observable `data trends` in Pyber data analysis are:
 -------------------------------------------------------------------------
